@@ -10,7 +10,7 @@ Brainstorming has started. Please come brainstorm with me/us!
 
 ## Community Links:
 
-**TODO**
+Google Group: https://groups.google.com/forum/#!forum/aion-emotion-prediction
 
 ## Problem description:
 
@@ -32,8 +32,8 @@ Given a simple context (e.g. a few pages of a children's book) with the emotiona
 
 ## Datasets:
 
-**TODO**
+I haven't found what would be the right dataset for the task. I still need to look in the Question Answering and Reading Comprehension literature.
 
 ## Relevant Work:
 
-* We should look at the learning comprehension literature.
+We should look at the Question Answering and Reading Comprehension literature.
